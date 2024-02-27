@@ -1,12 +1,12 @@
-# EPO-Project
+EPO-Project
 "Exercices d'applications pour prendre en main Git et GitHub, présentant brièvement l'EPO (École Polytechnique de Ouagadougou)."
-## Objectifs
+Objectifs
 - Prendre en main les commandes de base de Git et GitHub.
 - Créer une petite application web pour présenter l'EPO.
-## Technologies Utilisées
+Technologies Utilisées
 - CSS
 - JavaScript
-## Comment Contribuer
+Comment Contribuer
 Pour contribuer à ce projet, veuillez suivre les instructions suivantes :
 1. Clonez le répertoire sur votre machine locale.
 2. Créez une branche pour chaque nouvelle fonctionnalité ou correction.
