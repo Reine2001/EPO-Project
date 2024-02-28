@@ -26,6 +26,7 @@ body {
     margin: 4px 2px;
     cursor: pointer;
     }
+<<<<<<< HEAD
     /* Styles pour la section À propos */
 #about {
     background-color: #f0f0f0; /* Couleur de fond légère */
@@ -41,3 +42,10 @@ body {
     color: #666; /* Couleur du texte */
     line-height: 1.6; /* Hauteur de ligne pour améliorer la lisibilité */
     }
+=======
+    #galerie img {
+        width: 100%;
+        max-width: 200px;
+        margin: 10px;
+        }
+>>>>>>> feature-galerie
