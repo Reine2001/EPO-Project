@@ -6,8 +6,11 @@
 ## Technologies Utilisées
 - CSS
 - JavaScript
+<<<<<<< HEAD
 ## Logo de l'EPO
 ![Logo de l'EPO](epo.PNG)
+=======
+>>>>>>> 2e23cf6b55322fc065264c4b79acc3d4ec93ebe8
 ## Comment Contribuer
 Pour contribuer à ce projet, veuillez suivre les instructions suivantes :
 1. Clonez le répertoire sur votre machine locale.
